@@ -1,0 +1,43 @@
+1;03/08/1999;08:01:01;hume.eyrie.af.mil;1;NTinfoscan
+2;03/08/1999;08:50:15;zeno.eyrie.af.mil;1;pod
+3;03/08/1999;09:39:16;marx.eyrie.af.mil;1;back
+4;03/08/1999;12:09:18;pascal.eyrie.af.mil;1;httptunnel
+5;03/08/1999;15:57:15;pascal.eyrie.af.mil;1;land
+6;03/08/1999;17:27:13;marx.eyrie.af.mil;1;secret
+7;03/08/1999;19:09:17;pascal.eyrie.af.mil;1;ps attack
+8;03/09/1999;08:44:17;marx.eyrie.af.mil;1;portsweep
+9;03/09/1999;09:43:51;pascal.eyrie.af.mil;1;eject
+10;03/09/1999;10:06:43;marx.eyrie.af.mil;1;back
+11;03/09/1999;10:54:19;zeno.eyrie.af.mil;1;loadmodule
+12;03/09/1999;11:49:13;pascal.eyrie.af.mil;1;secret
+13;03/09/1999;14:25:16;pascal.eyrie.af.mil;1;mailbomb
+14;03/09/1999;13:05:10 ;172.016.112.001-114.254;1;ipsweep
+15;03/09/1999;16:11:15 ;marx.eyrie.af.mil;1;phf
+16;03/09/1999;18:06:17;pascal.eyrie.af.mil;1;httptunnel
+17;03/10/1999;12:02:13;marx.eyrie.af.mil;1;satan
+18;03/10/1999;13:44:18;pascal.eyrie.af.mil;1;mailbomb
+19;03/10/1999;15:25:18;marx.eyrie.af.mil;1;perl (Failed)
+20;03/10/1999;20:17:10;172.016.112.001-114.254;1;ipsweep
+21;03/10/1999;23:23:00;pascal.eyrie.af.mil;1;eject (console)
+22;03/10/1999;23:56:14;hume.eyrie.af.mil;1;crashiis
+23;03/11/1999;08:04:17;hume.eyrie.af.mil;1;crashiis
+24;03/11/1999;09:33:17;marx.eyrie.af.mil;1;satan
+25;03/11/1999;10:50:11;marx.eyrie.af.mil;1;portsweep
+26;03/11/1999;11:04:16;pigeon.eyrie.af.mil;1;neptune
+27;03/11/1999;12:57:13;marx.eyrie.af.mil;1;secret
+28;03/11/1999;14:25:17;marx.eyrie.af.mil;1;perl
+29;03/11/1999;15:47:15;pascal.eyrie.af.mil;1;land
+30;03/11/1999;16:36:10;172.016.112.001-254;1;ipsweep
+31;03/11/1999;19:16:18;pascal.eyrie.af.mil;1;ftp-write
+32;03/12/1999;08:07:17;marx.eyrie.af.mil;1;phf
+33;03/12/1999;08:10:40;marx.eyrie.af.mil;1;perl (console)
+34;03/12/1999;08:16:46;pascal.eyrie.af.mil;1;ps (console)
+35;03/12/1999;09:18:15;duck.eyrie.af.mil;1;pod
+36;03/12/1999;11:20:15;marx.eyrie.af.mil;1;neptune
+37;03/12/1999;12:40:12;hume.eyrie.af.mil;1;crashiis
+38;03/12/1999;13:12:17;zeno.eyrie.af.mil;1;loadmodule
+39;03/12/1999;14:06:17;marx.eyrie.af.mil;1;perl (Failed)
+40;03/12/1999;14:24:18;pascal.eyrie.af.mil;1;ps
+41;03/12/1999;15:24:16;pascal.eyrie.af.mil;1;eject
+42;03/12/1999;17:13:10;pascal.eyrie.af.mil;1;portsweep
+43;03/12/1999;17:43:18;pascal.eyrie.af.mil;1;ftp-write
